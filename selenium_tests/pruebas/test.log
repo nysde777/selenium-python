@@ -1,0 +1,10 @@
+2025-05-20 20:53:07,696 - INFO - ====== WebDriver manager ======
+2025-05-20 20:53:08,830 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-20 20:53:09,124 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-20 20:53:09,374 - INFO - Driver [C:\Users\Nysde\.wdm\drivers\chromedriver\win64\136.0.7103.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-20 20:53:10,552 - INFO - Inciando la prueba en saucedemo
+2025-05-20 20:53:11,745 - INFO - Ingresando el usaurio
+2025-05-20 20:53:11,869 - INFO - ingresando la contrase�a
+2025-05-20 20:53:11,951 - INFO - Inciando sesion con el boton login
+2025-05-20 20:53:12,047 - INFO - Tomando captura de pantalla
+2025-05-20 20:53:12,417 - INFO - Finalizando la prueba
